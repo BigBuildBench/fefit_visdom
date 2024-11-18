@@ -1,0 +1,9 @@
+[package]
+name = "visdom-performance"
+edition = "2018"
+version = "0.0.1"
+
+[dependencies]
+
+[profile.release]
+debug = true
